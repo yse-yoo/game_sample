@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+  <h2>バトル</h2>  
 </body>
 </html>
